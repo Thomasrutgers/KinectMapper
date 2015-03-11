@@ -1,0 +1,38 @@
+{
+	"pattrstorage" : 	{
+		"name" : "rbfi",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"rbfi[2]" : [ "space", 5, 0.739207, 0.232598, "/p0", 0.75, 0.375, 0.1875, 0.0, 3.321928, 758919.5, 0.05, 0.2, 0, 0.525285, 0.2309, "/p1", 0.75, 0.5625, 0.1875, 0.0, 3.321928, 758919.5, 0.05, 0.2, 0, 0.260429, 0.286927, "/p2", 0.75, 0.75, 0.1875, 0.0, 3.321928, 758919.5, 0.05, 0.2, 0, 0.526982, 0.597623, "/p3", 0.5625, 0.75, 0.1875, 0.0, 3.321928, 758919.5, 0.05, 0.2, 0, 0.46756, 0.743633, "/p4", 0.375, 0.75, 0.1875, 0.0, 3.321928, 758919.5, 0.05, 0.2, 0 ],
+					"loopInterpTime" : [ 0 ],
+					"inputMode" : [ 0 ],
+					"soundfile1" : [ "electromagnetospheres.wav" ],
+					"range1" : [ 26, 42 ],
+					"soundfile2" : [ "gong.wav" ],
+					"range2" : [ 72, 74 ],
+					"soundfile3[1]" : [ "---none---" ],
+					"range3" : [ 25, 50 ],
+					"soundfile4" : [ "crackles.wav" ],
+					"range4" : [ 40, 64 ],
+					"gain" : [ 137 ],
+					"outputMode" : [ 1 ],
+					"soundfile5" : [ "fluid 3.wav" ],
+					"range5" : [ 18, 39 ],
+					"soundfile6" : [ "gong.wav" ],
+					"range6" : [ 0, 37 ],
+					"soundfile7" : [ "---none---" ],
+					"range7" : [ 25, 50 ],
+					"soundfile8" : [ "crackles.wav" ],
+					"range8" : [ 79, 99 ],
+					"kinectMapper-interpolator::kinectMapper-interpolator" : [ 5 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
